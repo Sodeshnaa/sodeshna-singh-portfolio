@@ -17,7 +17,7 @@
 
 @font-face {
   font-family: "gallery_modernregular";
-  src: url("/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.woff2") format("woff2"), url("/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.woff") format("woff"), url("/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.ttf") format("truetype");
+  src: url("/sodeshna-singh-portfolio/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.woff2") format("woff2"), url("/sodeshna-singh-portfolio/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.woff") format("woff"), url("/sodeshna-singh-portfolio/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
